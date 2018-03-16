@@ -1,0 +1,2 @@
+steps:
+- script: "npm --prefix .\docfx\tools\Deployment install .\docfx\tools\Deployment"
